@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to <a href="https://the-cult-of-integral.github.io/profile/">the Cult of Integral</a>!</h2>
+<h2 align="center">Welcome to <a href="[https://the-cult-of-integral.github.io/profile/](https://github.com/4karaDEV)">4karaTeam</a>!</h2>
 
 <p align="center">
   <strong>Cult Statistics</strong>
