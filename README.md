@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-cult-of-integral&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=4karaDEV&theme=dark&show_icons=true" alt="shwetangStats" />  
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-cult-of-integral&layout=compact&theme=dark" alt="top-langs" />
