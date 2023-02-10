@@ -14,7 +14,7 @@
 ---
 
 <h3 align="left">Popular Repositories</h3>
-  [@Stormy](https://github.com/4karaDEV/Stormy)
+  - [🌌・Discord](https://discord.gg/XyV8RZDjQU)
 <p align="left">
 </p>
 
