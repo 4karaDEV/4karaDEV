@@ -14,7 +14,7 @@
 ---
 
 <h3 align="left">Popular Repositories</h3>
-  - [🔮・Stormy]<a href="https://4karaDEV.github.io/profile/">
+  <p>[🔮・Stormy]<a href="https://4karaDEV.github.io/profile/"></p>
 <p align="left">
 </p>
 
