@@ -15,14 +15,13 @@
 
 <h3 align="left">Popular Repositories</h3>
   [🔮・Stormy](WebhookSpammer)
-  [🌴・StormyGen](NitroGenerator)
 <p align="left">
 </p>
 
 ---
 
 <h3 align="left">Other Repositories</h3>
-
+  [🌴・StormyGen](NitroGenerator)
 <p align="left">
 </p>
 
