@@ -14,7 +14,8 @@
 ---
 
 <h3 align="left">Popular Repositories</h3>
-  [🔮・Stormy]
+  [🔮・Stormy](WebhookSpammer)
+  [🌴・StormyGen](NitroGenerator)
 <p align="left">
 </p>
 
