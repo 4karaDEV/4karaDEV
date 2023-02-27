@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm 4kara </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Salut , je suis 4kara !</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenue+sur+mon+Profil+github;Je+suis+d%C3%A9butant+en+d%C3%A9veloppement+informatique;j'aime+bien+la+cybers%C3%A9curit%C3%A9+et+tous+les+langage+utiliser+en+base+de+donn%C3%A9;Passe+une+Bonne+journ%C3%A9e+ou+un+bon+moment+sur+mon+profils" alt="Typing SVG" /></a>
